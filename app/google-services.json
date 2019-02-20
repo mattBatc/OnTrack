@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "118474013999",
+    "firebase_url": "https://ontrack-2d78d.firebaseio.com",
+    "project_id": "ontrack-2d78d",
+    "storage_bucket": "ontrack-2d78d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118474013999:android:251e1e23f16490d9",
+        "android_client_info": {
+          "package_name": "c.mattb.ontack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118474013999-7ac42h6n6i2o2g6kj9rkb1obfn87b429.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "c.mattb.ontack",
+            "certificate_hash": "ee994e2f5c6f57933f085d6ff9cfd509f82dde0c"
+          }
+        },
+        {
+          "client_id": "118474013999-7uf09nb1rif5tpb3af6ug3eeum0jj1hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXx9kCUzztgZG5QL4QrcnbXUK5JYDeRiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118474013999-7uf09nb1rif5tpb3af6ug3eeum0jj1hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
