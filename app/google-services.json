@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "118474013999-4djgoc3ts70bf3vk1pgr9v3j6ca8me0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "c.mattb.ontack",
+            "certificate_hash": "844bc0b6fb5bd9eaba3851b6e6075a0537ad55db"
+          }
+        },
+        {
           "client_id": "118474013999-7ac42h6n6i2o2g6kj9rkb1obfn87b429.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
